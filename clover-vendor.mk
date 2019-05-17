@@ -1297,7 +1297,6 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
-    com.qualcomm.location \
     QtiSystemService \
     QtiTelephonyService \
     WfdService \
